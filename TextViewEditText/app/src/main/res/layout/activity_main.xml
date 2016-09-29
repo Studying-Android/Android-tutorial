@@ -30,7 +30,7 @@
         android:id="@+id/editText3"
         android:textAlignment="center"
         android:layout_centerInParent="true"
-        android:hint="Additional & show editbox"/>
+        android:hint="Additional and show editbox"/>
 
     <EditText
         android:layout_width="match_parent"
@@ -50,5 +50,10 @@
         android:layout_height="wrap_content"
         android:id="@+id/textView"
         android:layout_below="@id/editText1"
-        android:text="Hello World!" />
+        android:textAlignment="center"
+        android:textSize="17pt"
+        android:text="Longlonglong text to test ellipsize property"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:clickable="false" />
 </RelativeLayout>
