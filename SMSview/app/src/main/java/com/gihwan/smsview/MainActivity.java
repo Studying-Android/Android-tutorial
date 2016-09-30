@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
                 if (str.length() != 0)
                     Toast.makeText(getApplicationContext(),
                             "You sent \n" + str, Toast.LENGTH_LONG).show();
+                et1.setText(""); // clear
             }
         });
         bt2.setOnClickListener(new View.OnClickListener() {
