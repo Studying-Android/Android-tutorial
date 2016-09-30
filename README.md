@@ -3,4 +3,4 @@
 > Do it! 안드로이드 앱 프로그래밍 참조 
 
 ## 정리자료 
-[Challenge-One]: http://kr-blog.gihwan.com/27
+[Challenge-One](http://kr-blog.gihwan.com/27)
