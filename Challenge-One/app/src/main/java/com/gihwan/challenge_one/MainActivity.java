@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         iv1.setImageResource(R.drawable.pic1);
-        iv2.setImageDrawable(null);
+       // iv2.setImageDrawable(null);
         /*
         Resources res = getResources();
         BitmapDrawable bitmap = (BitmapDrawable)res.getDrawable(R.drawable.pic1);
